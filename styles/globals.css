@@ -26,3 +26,19 @@ a {
 .radioButton{
   display: flex;
 }
+.userslist {
+  width: 100%;
+  float: left;
+  margin-left: 30px;
+  text-align: center;
+}
+.searchTerm {
+  width: 49%;
+  padding: 19px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
